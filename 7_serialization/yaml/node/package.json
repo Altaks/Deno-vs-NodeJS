@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "tinybench": "^3.0.0",
+    "yaml": "^2.6.0"
+  }
+}
