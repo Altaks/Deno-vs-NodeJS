@@ -1,0 +1,21 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc -b && node main.js",
+    "bench": "node main.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@oak/oak": "npm:@jsr/oak__oak@^17.1.2",
+    "@tajpouria/cors": "npm:@jsr/tajpouria__cors@^1.2.1"
+  },
+  "devDependencies": {
+    "axios": "^1.7.7",
+    "tinybench": "^3.0.0"
+  }
+}
