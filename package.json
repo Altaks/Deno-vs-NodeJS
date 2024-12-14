@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "fastify": "^5.2.0",
+    "k6": "^0.0.0"
+  },
+  "devDependencies": {
+    "@types/k6": "^0.54.2",
+    "@types/node": "^22.10.2"
+  }
+}

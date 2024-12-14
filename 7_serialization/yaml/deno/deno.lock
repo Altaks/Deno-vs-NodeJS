@@ -12,12 +12,6 @@
   "workspace": {
     "dependencies": [
       "jsr:@std/yaml@^1.0.5"
-    ],
-    "packageJson": {
-      "dependencies": [
-        "npm:tinybench@3",
-        "npm:yaml@^2.6.0"
-      ]
-    }
+    ]
   }
 }
